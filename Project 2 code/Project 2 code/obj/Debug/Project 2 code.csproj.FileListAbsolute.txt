@@ -1,0 +1,7 @@
+D:\learn microsoft c#\Project 2 code\Project 2 code\bin\Debug\Project 2 code.exe.config
+D:\learn microsoft c#\Project 2 code\Project 2 code\bin\Debug\Project 2 code.exe
+D:\learn microsoft c#\Project 2 code\Project 2 code\bin\Debug\Project 2 code.pdb
+D:\learn microsoft c#\Project 2 code\Project 2 code\obj\Debug\Project 2 code.csproj.AssemblyReference.cache
+D:\learn microsoft c#\Project 2 code\Project 2 code\obj\Debug\Project 2 code.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\Project 2 code\Project 2 code\obj\Debug\Project 2 code.exe
+D:\learn microsoft c#\Project 2 code\Project 2 code\obj\Debug\Project 2 code.pdb

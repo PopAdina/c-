@@ -1,0 +1,7 @@
+D:\learn microsoft c#\lizibilitate\lizibilitate\bin\Debug\lizibilitate.exe.config
+D:\learn microsoft c#\lizibilitate\lizibilitate\bin\Debug\lizibilitate.exe
+D:\learn microsoft c#\lizibilitate\lizibilitate\bin\Debug\lizibilitate.pdb
+D:\learn microsoft c#\lizibilitate\lizibilitate\obj\Debug\lizibilitate.csproj.AssemblyReference.cache
+D:\learn microsoft c#\lizibilitate\lizibilitate\obj\Debug\lizibilitate.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\lizibilitate\lizibilitate\obj\Debug\lizibilitate.exe
+D:\learn microsoft c#\lizibilitate\lizibilitate\obj\Debug\lizibilitate.pdb

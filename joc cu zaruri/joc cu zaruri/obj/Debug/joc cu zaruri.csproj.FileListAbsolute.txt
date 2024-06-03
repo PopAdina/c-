@@ -1,0 +1,7 @@
+D:\learn microsoft c#\joc cu zaruri\joc cu zaruri\bin\Debug\joc cu zaruri.exe.config
+D:\learn microsoft c#\joc cu zaruri\joc cu zaruri\bin\Debug\joc cu zaruri.exe
+D:\learn microsoft c#\joc cu zaruri\joc cu zaruri\bin\Debug\joc cu zaruri.pdb
+D:\learn microsoft c#\joc cu zaruri\joc cu zaruri\obj\Debug\joc cu zaruri.csproj.AssemblyReference.cache
+D:\learn microsoft c#\joc cu zaruri\joc cu zaruri\obj\Debug\joc cu zaruri.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\joc cu zaruri\joc cu zaruri\obj\Debug\joc cu zaruri.exe
+D:\learn microsoft c#\joc cu zaruri\joc cu zaruri\obj\Debug\joc cu zaruri.pdb
