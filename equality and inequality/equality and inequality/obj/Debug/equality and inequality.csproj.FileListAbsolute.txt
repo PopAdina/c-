@@ -1,0 +1,7 @@
+D:\learn microsoft c#\equality and inequality\equality and inequality\bin\Debug\equality and inequality.exe.config
+D:\learn microsoft c#\equality and inequality\equality and inequality\bin\Debug\equality and inequality.exe
+D:\learn microsoft c#\equality and inequality\equality and inequality\bin\Debug\equality and inequality.pdb
+D:\learn microsoft c#\equality and inequality\equality and inequality\obj\Debug\equality and inequality.csproj.AssemblyReference.cache
+D:\learn microsoft c#\equality and inequality\equality and inequality\obj\Debug\equality and inequality.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\equality and inequality\equality and inequality\obj\Debug\equality and inequality.exe
+D:\learn microsoft c#\equality and inequality\equality and inequality\obj\Debug\equality and inequality.pdb

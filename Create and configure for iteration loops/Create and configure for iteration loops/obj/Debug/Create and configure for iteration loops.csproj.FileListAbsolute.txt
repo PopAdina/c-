@@ -1,0 +1,7 @@
+D:\learn microsoft c#\Create and configure for iteration loops\Create and configure for iteration loops\bin\Debug\Create and configure for iteration loops.exe.config
+D:\learn microsoft c#\Create and configure for iteration loops\Create and configure for iteration loops\bin\Debug\Create and configure for iteration loops.exe
+D:\learn microsoft c#\Create and configure for iteration loops\Create and configure for iteration loops\bin\Debug\Create and configure for iteration loops.pdb
+D:\learn microsoft c#\Create and configure for iteration loops\Create and configure for iteration loops\obj\Debug\Create and configure for iteration loops.csproj.AssemblyReference.cache
+D:\learn microsoft c#\Create and configure for iteration loops\Create and configure for iteration loops\obj\Debug\Create and configure for iteration loops.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\Create and configure for iteration loops\Create and configure for iteration loops\obj\Debug\Create and configure for iteration loops.exe
+D:\learn microsoft c#\Create and configure for iteration loops\Create and configure for iteration loops\obj\Debug\Create and configure for iteration loops.pdb

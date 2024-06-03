@@ -1,0 +1,7 @@
+D:\learn microsoft c#\do and while iteration loops\do and while iteration loops\bin\Debug\do and while iteration loops.exe.config
+D:\learn microsoft c#\do and while iteration loops\do and while iteration loops\bin\Debug\do and while iteration loops.exe
+D:\learn microsoft c#\do and while iteration loops\do and while iteration loops\bin\Debug\do and while iteration loops.pdb
+D:\learn microsoft c#\do and while iteration loops\do and while iteration loops\obj\Debug\do and while iteration loops.csproj.AssemblyReference.cache
+D:\learn microsoft c#\do and while iteration loops\do and while iteration loops\obj\Debug\do and while iteration loops.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\do and while iteration loops\do and while iteration loops\obj\Debug\do and while iteration loops.exe
+D:\learn microsoft c#\do and while iteration loops\do and while iteration loops\obj\Debug\do and while iteration loops.pdb

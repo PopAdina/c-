@@ -1,0 +1,7 @@
+D:\learn microsoft c#\implement the game rules\implement the game rules\bin\Debug\implement the game rules.exe.config
+D:\learn microsoft c#\implement the game rules\implement the game rules\bin\Debug\implement the game rules.exe
+D:\learn microsoft c#\implement the game rules\implement the game rules\bin\Debug\implement the game rules.pdb
+D:\learn microsoft c#\implement the game rules\implement the game rules\obj\Debug\implement the game rules.csproj.AssemblyReference.cache
+D:\learn microsoft c#\implement the game rules\implement the game rules\obj\Debug\implement the game rules.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\implement the game rules\implement the game rules\obj\Debug\implement the game rules.exe
+D:\learn microsoft c#\implement the game rules\implement the game rules\obj\Debug\implement the game rules.pdb
