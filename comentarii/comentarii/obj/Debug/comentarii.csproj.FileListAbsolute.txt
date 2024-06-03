@@ -1,0 +1,7 @@
+D:\learn microsoft c#\comentarii\comentarii\bin\Debug\comentarii.exe.config
+D:\learn microsoft c#\comentarii\comentarii\bin\Debug\comentarii.exe
+D:\learn microsoft c#\comentarii\comentarii\bin\Debug\comentarii.pdb
+D:\learn microsoft c#\comentarii\comentarii\obj\Debug\comentarii.csproj.AssemblyReference.cache
+D:\learn microsoft c#\comentarii\comentarii\obj\Debug\comentarii.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\comentarii\comentarii\obj\Debug\comentarii.exe
+D:\learn microsoft c#\comentarii\comentarii\obj\Debug\comentarii.pdb

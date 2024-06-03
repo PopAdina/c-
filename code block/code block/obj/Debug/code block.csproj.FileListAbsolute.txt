@@ -1,0 +1,7 @@
+D:\learn microsoft c#\code block\code block\bin\Debug\code block.exe.config
+D:\learn microsoft c#\code block\code block\bin\Debug\code block.exe
+D:\learn microsoft c#\code block\code block\bin\Debug\code block.pdb
+D:\learn microsoft c#\code block\code block\obj\Debug\code block.csproj.AssemblyReference.cache
+D:\learn microsoft c#\code block\code block\obj\Debug\code block.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\code block\code block\obj\Debug\code block.exe
+D:\learn microsoft c#\code block\code block\obj\Debug\code block.pdb

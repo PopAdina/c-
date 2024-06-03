@@ -1,0 +1,7 @@
+D:\learn microsoft c#\array of int\array of int\bin\Debug\array of int.exe.config
+D:\learn microsoft c#\array of int\array of int\bin\Debug\array of int.exe
+D:\learn microsoft c#\array of int\array of int\bin\Debug\array of int.pdb
+D:\learn microsoft c#\array of int\array of int\obj\Debug\array of int.csproj.AssemblyReference.cache
+D:\learn microsoft c#\array of int\array of int\obj\Debug\array of int.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\array of int\array of int\obj\Debug\array of int.exe
+D:\learn microsoft c#\array of int\array of int\obj\Debug\array of int.pdb

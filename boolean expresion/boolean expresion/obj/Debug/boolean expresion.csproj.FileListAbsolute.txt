@@ -1,0 +1,7 @@
+D:\learn microsoft c#\boolean expresion\boolean expresion\bin\Debug\boolean expresion.exe.config
+D:\learn microsoft c#\boolean expresion\boolean expresion\bin\Debug\boolean expresion.exe
+D:\learn microsoft c#\boolean expresion\boolean expresion\bin\Debug\boolean expresion.pdb
+D:\learn microsoft c#\boolean expresion\boolean expresion\obj\Debug\boolean expresion.csproj.AssemblyReference.cache
+D:\learn microsoft c#\boolean expresion\boolean expresion\obj\Debug\boolean expresion.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\boolean expresion\boolean expresion\obj\Debug\boolean expresion.exe
+D:\learn microsoft c#\boolean expresion\boolean expresion\obj\Debug\boolean expresion.pdb

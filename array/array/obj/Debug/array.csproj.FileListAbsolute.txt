@@ -1,0 +1,7 @@
+D:\learn microsoft c#\array\array\obj\Debug\array.csproj.AssemblyReference.cache
+D:\learn microsoft c#\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\array\array\bin\Debug\array.exe.config
+D:\learn microsoft c#\array\array\bin\Debug\array.exe
+D:\learn microsoft c#\array\array\bin\Debug\array.pdb
+D:\learn microsoft c#\array\array\obj\Debug\array.exe
+D:\learn microsoft c#\array\array\obj\Debug\array.pdb
