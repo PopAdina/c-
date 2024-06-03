@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "renewal rate of subscriptions", "renewal rate of subscriptions\renewal rate of subscriptions.csproj", "{2FBEF47C-10CA-4BBA-AE8C-53C86BBC03E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FBEF47C-10CA-4BBA-AE8C-53C86BBC03E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBEF47C-10CA-4BBA-AE8C-53C86BBC03E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBEF47C-10CA-4BBA-AE8C-53C86BBC03E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBEF47C-10CA-4BBA-AE8C-53C86BBC03E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B2A598C-9E44-4AA9-878D-8A38942743F8}
+	EndGlobalSection
+EndGlobal

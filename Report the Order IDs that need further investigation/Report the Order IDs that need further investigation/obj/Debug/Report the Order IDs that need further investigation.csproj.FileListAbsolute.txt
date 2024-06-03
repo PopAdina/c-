@@ -1,0 +1,7 @@
+D:\learn microsoft c#\Report the Order IDs that need further investigation\Report the Order IDs that need further investigation\bin\Debug\Report the Order IDs that need further investigation.exe.config
+D:\learn microsoft c#\Report the Order IDs that need further investigation\Report the Order IDs that need further investigation\bin\Debug\Report the Order IDs that need further investigation.exe
+D:\learn microsoft c#\Report the Order IDs that need further investigation\Report the Order IDs that need further investigation\bin\Debug\Report the Order IDs that need further investigation.pdb
+D:\learn microsoft c#\Report the Order IDs that need further investigation\Report the Order IDs that need further investigation\obj\Debug\Report the Order IDs that need further investigation.csproj.AssemblyReference.cache
+D:\learn microsoft c#\Report the Order IDs that need further investigation\Report the Order IDs that need further investigation\obj\Debug\Report the Order IDs that need further investigation.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\Report the Order IDs that need further investigation\Report the Order IDs that need further investigation\obj\Debug\Report the Order IDs that need further investigation.exe
+D:\learn microsoft c#\Report the Order IDs that need further investigation\Report the Order IDs that need further investigation\obj\Debug\Report the Order IDs that need further investigation.pdb

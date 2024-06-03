@@ -1,0 +1,7 @@
+D:\learn microsoft c#\student grading\student grading\bin\Debug\student grading.exe.config
+D:\learn microsoft c#\student grading\student grading\bin\Debug\student grading.exe
+D:\learn microsoft c#\student grading\student grading\bin\Debug\student grading.pdb
+D:\learn microsoft c#\student grading\student grading\obj\Debug\student grading.csproj.AssemblyReference.cache
+D:\learn microsoft c#\student grading\student grading\obj\Debug\student grading.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\student grading\student grading\obj\Debug\student grading.exe
+D:\learn microsoft c#\student grading\student grading\obj\Debug\student grading.pdb

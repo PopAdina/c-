@@ -1,0 +1,7 @@
+D:\learn microsoft c#\renewal rate of subscriptions\renewal rate of subscriptions\bin\Debug\renewal rate of subscriptions.exe.config
+D:\learn microsoft c#\renewal rate of subscriptions\renewal rate of subscriptions\bin\Debug\renewal rate of subscriptions.exe
+D:\learn microsoft c#\renewal rate of subscriptions\renewal rate of subscriptions\bin\Debug\renewal rate of subscriptions.pdb
+D:\learn microsoft c#\renewal rate of subscriptions\renewal rate of subscriptions\obj\Debug\renewal rate of subscriptions.csproj.AssemblyReference.cache
+D:\learn microsoft c#\renewal rate of subscriptions\renewal rate of subscriptions\obj\Debug\renewal rate of subscriptions.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\renewal rate of subscriptions\renewal rate of subscriptions\obj\Debug\renewal rate of subscriptions.exe
+D:\learn microsoft c#\renewal rate of subscriptions\renewal rate of subscriptions\obj\Debug\renewal rate of subscriptions.pdb

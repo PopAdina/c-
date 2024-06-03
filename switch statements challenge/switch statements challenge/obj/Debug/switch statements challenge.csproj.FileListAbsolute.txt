@@ -1,0 +1,7 @@
+D:\learn microsoft c#\switch statements challenge\switch statements challenge\bin\Debug\switch statements challenge.exe.config
+D:\learn microsoft c#\switch statements challenge\switch statements challenge\bin\Debug\switch statements challenge.exe
+D:\learn microsoft c#\switch statements challenge\switch statements challenge\bin\Debug\switch statements challenge.pdb
+D:\learn microsoft c#\switch statements challenge\switch statements challenge\obj\Debug\switch statements challenge.csproj.AssemblyReference.cache
+D:\learn microsoft c#\switch statements challenge\switch statements challenge\obj\Debug\switch statements challenge.csproj.CoreCompileInputs.cache
+D:\learn microsoft c#\switch statements challenge\switch statements challenge\obj\Debug\switch statements challenge.exe
+D:\learn microsoft c#\switch statements challenge\switch statements challenge\obj\Debug\switch statements challenge.pdb
